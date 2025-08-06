@@ -2,7 +2,7 @@
 
 This repository was developed as part of EAS 586: medical imaging analysis course at the University of Pennsylvania.
 
-####Tools & Libraries
+#### Tools & Libraries
 - Python, PyTorch, NumPy, Matplotlib, scikit-learn
 - `pydicom`, `SimpleITK`, `pyorthanc`
 
