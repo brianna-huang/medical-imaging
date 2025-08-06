@@ -1,4 +1,10 @@
-## All projects and assignments for EAS586–Medical Imaging Analysis
+## Medical Imaging Analysis
+
+This repository was developed as part of EAS 586: medical imaging analysis course at the University of Pennsylvania.
+
+####Tools & Libraries
+- Python, PyTorch, NumPy, Matplotlib, scikit-learn
+- `pydicom`, `SimpleITK`, `pyorthanc`
 
 ### In U-Net_CNN.ipynb:
 #### Left Ventricle Segmentation in Cardiac MRI with U-Net
